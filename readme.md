@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Кашу кушаю, nightcall слушаю, удачи╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ 👂👁
+- Кашу кушаю, nightcall слушаю, удачи╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ 
 - 👂👁👄👁👂
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me: [Telegram](https://t.me/n_belikov)
